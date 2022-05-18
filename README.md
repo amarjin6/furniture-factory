@@ -14,6 +14,8 @@ The control and accounting process is viewed from the point of view of the CEO. 
 release (sale) of finished products, record and maintain documentation and send orders for the necessary materials to suppliers.
 
 ## 🥽**Preview**🥽
+![2022-05-18 08-05-44](https://user-images.githubusercontent.com/86531927/169101589-5a7f065b-1ef8-42cc-ba60-0f02c1465ff6.png)
+![2022-05-18 08-06-19](https://user-images.githubusercontent.com/86531927/169101598-fbf01201-9431-4a15-b1c4-3129b8785cfb.png)
 
 ## 📰**Explicit**📰
 
