@@ -5,7 +5,7 @@ An automated system is necessary for an enterprise to control production process
 the enterprise has a fairly large amount of documentation drawn up, which slows down the work of administrative personnel.
 
 ## 🛠**How to Use**🛠
-* **Install [ERWIn/BPWin](magnet:?xt=urn:btih:E74EEB1423B35C22037EB368F379B4104282D501&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet)**
+* **Install [ERWIn / BPWin](https://www.erwin.com/software-demos-and-trials/)**
 * **Open project**📎
 * **Modify if necessary**🔖
 
